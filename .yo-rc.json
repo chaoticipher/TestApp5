@@ -1,0 +1,16 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "TestApp5",
+    "buildTool": "maven",
+    "databaseType": "sql",
+    "devServerPort": 4200,
+    "entities": [],
+    "jhipsterVersion": "8.7.1",
+    "jwtSecretKey": "NzBiMjA1NzQwZjk2MjdlYmUxODJmZjgyNWQwZTY2MjgxMjZmMmQ5OTk4MzE2ZjQ5YTBjOWMwZmU3NzNiZjg3ODZiYmRmYzBkNTIxZjgyZDg3NTg0OGJhNTJmOTU5ODk2MDkzYzA0ZTI2MDFmMWYxZGZhYjlkYTM5OTY3NWJkZTY=",
+    "languages": ["en"],
+    "monorepository": true,
+    "nativeLanguage": "en",
+    "skipCommitHook": true
+  }
+}
